@@ -1,0 +1,23 @@
+{
+  "lib/damn-vulnerable-defi-v4": {
+    "rev": "d22e1075c9687a2feb58438fd37327068d5379c0"
+  },
+  "lib/forge-std": {
+    "rev": "2b59872eee0b8088ddcade39fe8c041e17bb79c0"
+  },
+  "lib/foundry-huff": {
+    "rev": "7d1ce15ccf92bd68458c7e28e0ae847b64b4fc74"
+  },
+  "lib/openzeppelin-contracts-05": {
+    "rev": "837828967a9831e4333d5fb9edefb200a357d24d"
+  },
+  "lib/openzeppelin-contracts-06": {
+    "rev": "8e0296096449d9b1cd7c5631e917330635244c37"
+  },
+  "lib/openzeppelin-contracts-07": {
+    "rev": "dc44c9f1a4c3b10af99492eed84f83ed244203f6"
+  },
+  "lib/openzeppelin-contracts-08": {
+    "rev": "dbb6104ce834628e473d2173bbc9d47f81a9eec3"
+  }
+}
